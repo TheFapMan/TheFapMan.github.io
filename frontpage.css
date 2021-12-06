@@ -1,9 +1,13 @@
 .welcome {
     font-family: Burford Rustic;
     font-weight: bolder;
-    color: black;
+    color: red;
     background-color: blueviolet;
     text-shadow: violet;
+    box-shadow: darkred;
+    border: darkolivegreen;
+    border-width: 3px;
+    border-style: groove;
 }
 
 .paragraf {
