@@ -12,12 +12,12 @@ body, html {
 
 
   }
-/* header {
+header {
     font-family: Impact;
     background-color: black;
     border-width: 3px;
     border-style: ridge;
-    text-align: center; */
+    text-align: center;
 }
 
 .button {
