@@ -1,26 +1,32 @@
 html {
-    background-image: href="tag-pic.jpeg";
-}
-.welcome {
-    font-family: Burford Rustic;
-    font-weight: bolder;
-    color: red;
-    text-shadow: violet;
-    box-shadow: darkred;
-    border: darkolivegreen;
-    border-width: 3px;
-    border-style: groove;
-}
+    background-image: url("tag-pic.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+} 
 
-.paragraf {
-    color: yellowgreen;
-    box-sizing: border-box;
-    text-shadow: turquoise;
+body, html {
+    height: 100%;
+  }
+
+
+  }
+/* header {
+    font-family: Impact;
+    background-color: black;
+    border-width: 3px;
+    border-style: ridge;
+    text-align: center; */
 }
 
 .button {
-    color: darkorange;
-    size: 25px;
+    color: white;
+    background-color: black;
+    border: unset;
+    font-size: 20px;
+    padding: 15px 32px;
+    display: inline-block;
 }
 
 /* yo */
