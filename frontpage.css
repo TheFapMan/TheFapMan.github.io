@@ -1,4 +1,4 @@
-welcome {
+.welcome {
     font-family: Burford Rustic;
     font-weight: bolder;
     color: black;
@@ -6,13 +6,13 @@ welcome {
     text-shadow: violet;
 }
 
-paragraf {
+.paragraf {
     color: yellowgreen;
     box-sizing: border-box;
     text-shadow: turquoise;
 }
 
-button {
+.button {
     color: darkorange;
 }
 
