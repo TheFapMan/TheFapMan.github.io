@@ -3,10 +3,13 @@ welcome {
     font-weight: bolder;
     color: black;
     background-color: blueviolet;
+    text-shadow: violet;
 }
 
 paragraf {
     color: yellowgreen;
+    box-sizing: border-box;
+    text-shadow: turquoise;
 }
 
 /* yo */
