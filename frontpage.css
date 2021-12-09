@@ -1,33 +1,53 @@
 html {
     background-image: url("tag-pic.jpeg");
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
    
 } 
 
 body, html {
     height: 100%;
-    width: 100%;
-  }
 
+}
 
-  }
+navn {
+    color: white
+    
+}
+
+.menylinje {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+    word-spacing: 10px;
+    border-spacing: 20px;
+}
+
 .welcome {
+    display: center;
     font-family: Impact;
-    background-color: white;
+    background-color: black;
     border-width: 3px;
     border-style: ridge;
+    border-color: gold;
     text-align: center;
+    color: white;
 }
 
 .button {
+    display: ;
     color: white;
     background-color: black;
     border: unset;
     font-size: 20px;
     padding: 15px 32px;
-    display: inline-block;
+    text-align: center;
+    border-radius: 15px;
+
+    
 }
 
 /* yo */
