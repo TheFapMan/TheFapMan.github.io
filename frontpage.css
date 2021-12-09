@@ -39,6 +39,11 @@ body, html {
     text-decoration: none;
     font-size: 3vh;
     justify-content: right;
+    border-top: gold;
+    border: gold;
+    border-width: 3px;
+    border-style: ridge;
+    
 }
 
 .menylinje a:hover {
@@ -74,6 +79,10 @@ body, html {
     margin-left: auto;
     margin-right: auto;
     margin-top: 35vh;
+}
+
+.button:hover {
+    font-size: 30px;
 }
 
 /* yo */
