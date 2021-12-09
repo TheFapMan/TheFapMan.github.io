@@ -48,7 +48,8 @@ body, html {
 }
 
 .welcome {
-    display: center;
+    display: flex;
+    justify-content: space-around;
     font-family: Impact;
     background-color: black;
     border-width: 3px;
