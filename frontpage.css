@@ -38,16 +38,21 @@ body, html {
     color: white;
     text-decoration: none;
     font-size: 3vh;
+    background-color: black;
+    background-blend-mode: soft-light;
     justify-content: right;
-    border-top: gold;
-    border: gold;
+    border-color: gold;
+    border-left-width: 0px;
+    border-right-width: 0px;
     border-width: 3px;
     border-style: ridge;
-    
+    padding-left: 20px;
+    padding-right: 20px;
+
 }
 
 .menylinje a:hover {
-    color: red;
+    color: gold;
     font-weight: bolder;
     
 }
@@ -57,6 +62,7 @@ body, html {
     justify-content: space-around;
     font-family: Impact;
     background-color: black;
+    letter-spacing: 10px;
     border-width: 3px;
     border-style: ridge;
     border-color: gold;
@@ -83,6 +89,8 @@ body, html {
 
 .button:hover {
     font-size: 30px;
+    color: gold;
+
 }
 
 /* yo */
